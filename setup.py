@@ -4,7 +4,7 @@ with open('README.rst') as fd:
     long_description = fd.read()
 
 setup(name='Flask-ESClient',
-    version='0.1.0',
+    version='0.1.1',
     description='Flask extension for ESClient (elasticsearch client)',
     long_description=long_description,
     author='Baiju Muthukadan',
